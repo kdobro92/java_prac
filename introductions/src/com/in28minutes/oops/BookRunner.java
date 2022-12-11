@@ -11,5 +11,4 @@ public class BookRunner {
 		effectiveJava.noOfCopies = 50;
 		cleanCode.noOfCopies = 45;
 	}
-
 }
