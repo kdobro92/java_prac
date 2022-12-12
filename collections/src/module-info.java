@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author kimdohyung
+ *
+ */
+module collections {
+}
