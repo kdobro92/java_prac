@@ -2,4 +2,7 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="java.util.HashMap"/>
     <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="com.in28minutes.learnspringframework.game.MarioGame"/>
+    <fullyQualifiedTypeName name="com.in28minutes.learnspringframework.game.GameRunner"/>
+    <fullyQualifiedTypeName name="com.in28minutes.learnspringframework.game.SuperContraGame"/>
 </qualifiedTypeNameHistroy>
