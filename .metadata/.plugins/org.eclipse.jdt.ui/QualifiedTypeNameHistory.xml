@@ -5,4 +5,7 @@
     <fullyQualifiedTypeName name="com.in28minutes.learnspringframework.game.MarioGame"/>
     <fullyQualifiedTypeName name="com.in28minutes.learnspringframework.game.GameRunner"/>
     <fullyQualifiedTypeName name="com.in28minutes.learnspringframework.game.SuperContraGame"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="org.springframework.context.ConfigurableApplicationContext"/>
 </qualifiedTypeNameHistroy>
