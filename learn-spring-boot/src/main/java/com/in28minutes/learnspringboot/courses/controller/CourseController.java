@@ -17,7 +17,7 @@ public class CourseController {
 		return Arrays.asList(new Course(1, "Learn Microservices", "in28minutes"),
 				new Course(2, "Learn Full Stack with Angular and React", "in28minutes"));	
 	}
-	
+	//
 	//http://locatlhost:8080/courses/1
 	@GetMapping("/courses/1")
 	public Course getCourseDetails() {
