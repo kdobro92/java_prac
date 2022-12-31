@@ -13,7 +13,7 @@ public class GenericsRunner {
 		MyCustomList<Integer> list2 = new MyCustomList<>();
 		list2.addElement(Integer.valueOf(5));
 		list2.addElement(Integer.valueOf(7));
-		Integer number = list.get(0);
+//		Integer number = list.get(0);
 		System.out.println(list2);
 	}
 	
