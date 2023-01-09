@@ -5,7 +5,7 @@ import java.util.List;
 public class FunctionalProgrammingRunner {
 
 	public static void main(String[] args) {
-//		List<String> list = List.of("Apple");
+		List<String> list = List.of("Apple");
 		
 		printBasic(list);
 	}
